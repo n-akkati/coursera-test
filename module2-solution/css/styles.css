@@ -14,8 +14,8 @@ p {
   background-color: #A52A2A;
   width: 90%;
   height: 150px;
-  margin-right: none;
-  margin-left: none;
+  margin-right: auto;
+  margin-left: auto;
   font-family: Helvetica;
   color: white;
 }
