@@ -19,7 +19,7 @@ p {
   font-family: "Times New Roman", Times, serif;
   background-color: #adacacfd;
 }
-.tag_1 {
+.row .tag_1 {
   position: absolute;
   top: 0;
   right: 0;
@@ -27,7 +27,7 @@ p {
   border: solid 1px black;
   font-family: "Times New Roman", Times, serif;
 }
-.tag_2 {
+.row .tag_2 {
   position: absolute;
   top: 0;
   right: 0;
@@ -36,7 +36,7 @@ p {
   border: solid 1px black;
   font-family: "Times New Roman", Times, serif;
 }
-.tag_3 {
+.row .tag_3 {
   position: absolute;
   top: 0;
   right: 0;
