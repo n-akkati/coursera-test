@@ -20,38 +20,18 @@ p {
   background-color: #adacacfd;
 }
 .tag_1 {
-  position: absolute;
-  top: 0;
-  right: 0;
   background-color: #fdc0c0;
-  padding: 5px;        
-  border: solid 1px black;
-  font-family: "Times New Roman", Times, serif;
-  width: 100px;
-  text-align: center;
 }
 .tag_2 {
-  position: absolute;
-  top: 0;
-  right: 0;
   background-color: #df8181;
-  padding: 5px;        
-  border: solid 1px black;
-  font-family: "Times New Roman", Times, serif;
-  width: 100px;
-  text-align: center;
+  padding-left: 30px;        
+
 }
 .tag_3 {
-  position: absolute;
-  top: 0;
-  right: 0;
   background-color: #f8f8a9;
-  padding: 5px;        
-  border: solid 1px black;
-  font-family: "Times New Roman", Times, serif;
-  width: 100px;
-  text-align: center;
+  padding: 30px;        
 }
+
 .row {
   width: 100%;
 }
