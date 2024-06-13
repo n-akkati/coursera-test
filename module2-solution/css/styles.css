@@ -20,30 +20,47 @@ p {
   background-color: #adacacfd;
 }
 #tag_1 {
-  position: absolute;
-  top: 0;
-  right: 0;
-  background-color: #fdc0c0;
-  border: solid 1px black;
-  font-family: "Times New Roman", Times, serif;
+    float: right;
+    margin: 0px 50px 0px 0px;
+    background-color: #fdc0c0;
+    border: 1px solid black;
+    width: 180px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 80%;
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px 10px 0 10px;
+    z-index: 10;
 }
 #tag_2 {
-  position: absolute;
-  top: 0;
-  right: 0;
-  background-color: #df8181;
-  padding-left: 30px; 
-  border: solid 1px black;
-  font-family: "Times New Roman", Times, serif;
+    float: right;
+    margin: 0px 50px 0px 0px;
+    background-color: #df8181;
+    border: 1px solid black;
+    width: 180px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 80%;
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px 10px 0 10px;
+    z-index: 10;
 }
+
 #tag_3 {
-  position: absolute;
-  top: 0;
-  right: 0;
-  background-color: #f8f8a9;
-  padding-left: 30px; 
-  border:solid 1px black;
-  font-family: "Times New Roman", Times, serif;
+    float: right;
+    margin: 0px 50px 0px 0px;
+    background-color: #f8f8a9;
+    border: 1px solid black;
+    width: 180px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 80%;
+    font-family: "Times New Roman", Times, serif;
+    padding: 10px 10px 0 10px;
+    z-index: 10;  
 }
 
 .row {
