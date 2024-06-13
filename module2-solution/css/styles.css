@@ -24,21 +24,26 @@ p {
   top: 0;
   right: 0;
   background-color: #fdc0c0;
+  border: solid 1px black;
+  font-family: "Times New Roman", Times, serif;
 }
 .tag_2 {
   position: absolute;
   top: 0;
   right: 0;
   background-color: #df8181;
-  padding-left: 30px;        
-
+  padding-left: 30px; 
+  border: solid 1px black;
+  font-family: "Times New Roman", Times, serif;
 }
 .tag_3 {
   position: absolute;
   top: 0;
   right: 0;
   background-color: #f8f8a9;
-  padding-left: 30px;        
+  padding-left: 30px; 
+  border:solid 1px black;
+  font-family: "Times New Roman", Times, serif;
 }
 
 .row {
