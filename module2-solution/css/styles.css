@@ -13,11 +13,11 @@ h1 {
 p {
   width: auto;
   height: auto;
-  margin-right: auto;
-  margin-left: auto;
-  font-family: Helvetica;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 10px;
+  font-family: "Times New Roman", Times, serif;
   background-color: #adacacfd;
-  border: 2px black;
 }
 
 .row {
