@@ -22,7 +22,7 @@ p {
     float: right;
     margin: px 50px 0px 0px;
     background-color: #fdc0c0;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 100px;
     height: 20px;
     text-align: center;
@@ -34,7 +34,7 @@ p {
     float: right;
     margin: px 50px 0px 0px;
     background-color: #df8181;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 100px;
     height: 20px;
     text-align: center;
@@ -47,7 +47,7 @@ p {
     float: right;
     margin: px 50px 0px 0px;
     background-color: #f8f8a9;
-    border: 1px solid black;
+    border: 2px solid black;
     width: 100px;
     height: 20px;
     text-align: center;
