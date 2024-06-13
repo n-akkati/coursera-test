@@ -21,46 +21,40 @@ p {
 }
 #tag_1 {
     float: right;
-    margin: 0px 50px 0px 0px;
+    margin: px 50px 0px 0px;
     background-color: #fdc0c0;
     border: 1px solid black;
-    width: 180px;
-    height: 35px;
+    width: 100px;
+    height: 20px;
     text-align: center;
-    vertical-align: middle;
     font-size: 80%;
     font-family: "Times New Roman", Times, serif;
-    padding: 10px 10px 0 10px;
-    z-index: 10;
+    padding: 10px 10px 0 5px;
 }
 #tag_2 {
     float: right;
-    margin: 0px 50px 0px 0px;
+    margin: px 50px 0px 0px;
     background-color: #df8181;
     border: 1px solid black;
-    width: 180px;
-    height: 35px;
+    width: 100px;
+    height: 20px;
     text-align: center;
-    vertical-align: middle;
     font-size: 80%;
     font-family: "Times New Roman", Times, serif;
-    padding: 10px 10px 0 10px;
-    z-index: 10;
+    padding: 10px 10px 0 5px;
 }
 
 #tag_3 {
     float: right;
-    margin: 0px 50px 0px 0px;
+    margin: px 50px 0px 0px;
     background-color: #f8f8a9;
     border: 1px solid black;
-    width: 180px;
-    height: 35px;
+    width: 100px;
+    height: 20px;
     text-align: center;
-    vertical-align: middle;
     font-size: 80%;
     font-family: "Times New Roman", Times, serif;
-    padding: 10px 10px 0 10px;
-    z-index: 10;  
+    padding: 10px 10px 0 5px; 
 }
 
 .row {
