@@ -20,14 +20,23 @@ p {
   background-color: #adacacfd;
 }
 .tag_1 {
+  position: absolute;
+  top: 0;
+  right: 0;
   background-color: #fdc0c0;
 }
 .tag_2 {
+  position: absolute;
+  top: 0;
+  right: 0;
   background-color: #df8181;
   padding-left: 30px;        
 
 }
 .tag_3 {
+  position: absolute;
+  top: 0;
+  right: 0;
   background-color: #f8f8a9;
   padding-left: 30px;        
 }
